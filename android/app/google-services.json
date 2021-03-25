@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974796443359",
+    "project_id": "chatwithdesign-c275e",
+    "storage_bucket": "chatwithdesign-c275e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974796443359:android:1b153c33a9d8fcb1ea236a",
+        "android_client_info": {
+          "package_name": "com.saurabhinfosys.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974796443359-o6iom9k820o0k53h9spigbdqah4oi5sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKMCOE9V_fLfssSYdb1kNPwny4Gi5YpQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974796443359-o6iom9k820o0k53h9spigbdqah4oi5sl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
